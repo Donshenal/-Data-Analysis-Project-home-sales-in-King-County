@@ -23,7 +23,7 @@ and presenting the findings to the client for making strategic decisions.
 
 ## About the Client
 
-The client, Erin Robinson, is a buyer interested in investing in underprivileged neighborhoods. Her strategy involves buying and selling homes, covering costs while aiming for a modest profit. Social responsibility is a significant factor in her investment decisions.
+The fictional client, Erin Robinson, is a buyer interested in investing in underprivileged neighborhoods. Her strategy involves buying and selling homes, covering costs while aiming for a modest profit. Social responsibility is a significant factor in her investment decisions.
 
 ## Project Description
 
