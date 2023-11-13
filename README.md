@@ -1,6 +1,6 @@
 # -Data-Analysis-Project-Home-Sales-in-King-County
 
-This project focuses on conducting an exploratory data analysis of the King County Housing Dataset 
+This project focuses on conducting an exploratory data analysis of a King County Housing Dataset 
 and presenting the findings to the client for making strategic decisions.
 
 ## Dataset Information
